@@ -5,35 +5,35 @@ gsap.registerPlugin(ScrollTrigger);
 const memories = [
     {
         image: "image/OIP.jpeg",
-        caption: "Remember when we got lost hiking and found that amazing waterfall? Best wrong turn ever! 😂",
+        caption: "Baad m likha jayega",
         isGif: false,
         rotationAngle: -2,
         emoji: "🌊"
     },
     {
         image: "pic2.jpg",
-        caption: "That time we stayed up all night just talking and watching the sunrise. I've never laughed so hard in my life!",
+        caption: "Baad m likha jayega",
         isGif: false,
         rotationAngle: 3,
         emoji: "🌅"
     },
     {
         image: "pic3.jpg",
-        caption: "Our first road trip together! You fell asleep and I drew a tiny mustache on you with a marker. You didn't notice for HOURS!",
+        caption: "Baad m likha jayega",
         isGif: true,
         rotationAngle: -1,
         emoji: "🚗"
     },
     {
         image: "pic4.jpg",
-        caption: "Remember our cooking disaster when we tried to make that fancy recipe? The smoke alarm going off, but the pizza we ordered after was the best ever!",
+        caption: "Baad m likha jayega",
         isGif: false,
         rotationAngle: 2,
         emoji: "🍕"
     },
     {
         image: "pic5.jpg",
-        caption: "Our camping trip under the stars. You were terrified of that tiny spider and jumped so high! Still my favorite memory.",
+        caption: "Baad m likha jayega",
         isGif: false,
         rotationAngle: -3,
         emoji: "🏕️"
@@ -47,28 +47,28 @@ const memories = [
     },
     {
         image: "pic8.jpg",
-        caption: "When we built that epic blanket fort during the storm and watched movies all day. Best rainy day ever!",
+        caption: "Baad m likha jayega",
         isGif: false,
         rotationAngle: -2,
         emoji: "🏰"
     },
     {
         image: "pic9.jpg",
-        caption: "Our spontaneous beach day when we skipped class. I still find sand in my backpack sometimes!",
+        caption: "Baad m likha jayega",
         isGif: false,
         rotationAngle: 2,
         emoji: "🏖️"
     },
     {
         image: "pic6.jpg",
-        caption: "You've always been there for me through thick and thin. I'm so grateful for your friendship. ❤️",
+        caption: "Baad m likha jayega",
         isGif: false,
         rotationAngle: -1,
         emoji: "💕"
     },
     {
         image: "pic4.jpg",
-        caption: "Happy Birthday to my best friend in the whole world! Here's to many more adventures together!",
+        caption: "Baad m likha jayega",
         isGif: true,
         rotationAngle: 3,
         emoji: "🎂"
